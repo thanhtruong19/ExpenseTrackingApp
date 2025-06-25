@@ -51,17 +51,11 @@ Mở trình duyệt và truy cập địa chỉ: `http://localhost:5110`.
 
 
 ## Hướng dẫn sử dụng ứng dụng
-
-### 1. Đăng nhập/Đăng ký
-
-- Truy cập trang chủ ứng dụng.
-- Sử dụng tài khoản đã đăng ký để đăng nhập, hoặc đăng ký tài khoản mới.
-
-### 2. Quản lý danh mục chi tiêu (Category)
+### 1. Quản lý danh mục chi tiêu (Category)
 
 - Sau khi đăng nhập, truy cập mục "Category" để xem, thêm, sửa, xóa các danh mục chi tiêu.
 
-### 3. Theo dõi chi tiêu
+### 2. Theo dõi chi tiêu
 
 - Truy cập mục "Transaction" để xem, thêm, sửa, xóa các giao dịch chi tiêu.
 - Sử dụng trang "Bảng điều khiển" để xem thống kê chi tiêu theo thời gian, danh mục.
