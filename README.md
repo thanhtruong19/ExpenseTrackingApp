@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Expense Tracking App là ứng dụng web giúp người dùng quản lý và theo dõi các khoản chi tiêu cá nhân, được xây dựng bằng ASP.NET Core MVC và sử dụng SQL Server làm cơ sở dữ liệu.
+Expense Tracking là ứng dụng web giúp người dùng quản lý và theo dõi các khoản chi tiêu cá nhân, được xây dựng bằng ASP.NET Core MVC và sử dụng SQL Server làm cơ sở dữ liệu. Phần giao diện sử dụng Razor View Engine kết hợp HTML, CSS, JavaScript và thư viện jQuery để xây dựng trải nghiệm người dùng hiện đại và thân thiện.
 
 ## Cấu trúc dự án
 
