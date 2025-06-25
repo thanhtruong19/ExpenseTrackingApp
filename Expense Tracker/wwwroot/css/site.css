@@ -253,7 +253,7 @@ img.profile-pic {
 
 /*SideBar*/
 #sidebar {
-    background-color: #12161d;
+    background-color: #0f77fe;
     border-right: 1px dashed rgba(75,82,85,0.24);
     padding: 10px 20px;
     overflow:hidden;
@@ -349,3 +349,25 @@ img.profile-pic {
     .widget.chart {
         padding: 5px;
     }
+
+#sidebar,
+#sidebar .e-menu-wrapper,
+#sidebar .profile-wrapper,
+#sidebar .titles {
+    color: #fff !important;
+}
+
+#sidebar .e-menu-item.e-separator {
+    color: #00ffea !important; /* hoặc #fff, hoặc màu sáng khác */
+    font-weight: bold;
+}
+
+#sidebar .e-menu-item a {
+    color: #fff !important;
+    font-weight: 500;
+}
+
+#sidebar .e-menu-item a:hover {
+    color: #ffd600 !important;
+    text-shadow: 0 1px 4px #000;
+}
